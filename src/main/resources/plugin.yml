@@ -1,0 +1,8 @@
+name: HelloPlugin
+version: 1.0
+main: me.jju.helloplugin.Main
+api-version: 1.21.6
+
+commands:
+  gui:
+    description: 상자 GUI를 엽니다
